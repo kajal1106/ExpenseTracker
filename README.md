@@ -1,7 +1,12 @@
+## Expense Tracker
+<p>
+  <a href="https://expensetrackingapp.netlify.app/" target="_blank">
+    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+  </a>
+</p>
+
 Mini app to track the income and expense of the budget using [React](http://facebook.github.io/react/index.html)
-
 <p align=""> Live preview: <a href="https://expensetrackingapp.netlify.app/"> Expense Tracker</a></p><br>
-
 
 ## 🚀 Installation
 
@@ -9,8 +14,8 @@ Mini app to track the income and expense of the budget using [React](http://face
 
 If you would like to download the code and try it for yourself:
 
-1. Clone the repo: `https://github.com/kajal1106/Todo-Bag.git`
-2. Change directory `cd Todo-Bag`
+1. Clone the repo: `https://github.com/kajal1106/ExpenseTracker.git`
+2. Change directory `cd ExpenseTracker`
 3. Install packages: `yarn/npm install`
 4. Start project: `yarn/npm start`
 5. Open your browser at: `http://localhost:3000`
