@@ -6,8 +6,6 @@
 </p>
 
 Mini app to track the income and expense of the budget using [React](http://facebook.github.io/react/index.html)
-<p align=""> Live preview: <a href="https://expensetrackingapp.netlify.app/"> Expense Tracker</a></p><br>
-
 ## 🚀 Installation
 
 [node.js](http://nodejs.org/download/) is required to get `npm`.
