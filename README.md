@@ -24,4 +24,4 @@ If you would like to download the code and try it for yourself:
 
 ## :coffee:
 
-If you like this project and wish to say to say thanks - I'm always open to a coffee!
+If you like this project and wish to say thanks - I'm always open to a coffee!
